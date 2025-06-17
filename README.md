@@ -31,6 +31,10 @@ low level machine code is able to deal with features such as:
     - fifos
     - ...
     - 
-The compilation process allow higher level control
+The compilation process allow higher level control, with macro instructions like:
+  - IF, THEN, ELSE, ENDIF
+  - CASE ,WHEN, ENDCASE
+  - WHILE, LOOP, ENDLOOP
+  - FUNCTIONS handling with parameters
 
-The script is started on a first
+
